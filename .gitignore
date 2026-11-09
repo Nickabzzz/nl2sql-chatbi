@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+.venv/
+.env
+*.log
+.token
+.session.json
